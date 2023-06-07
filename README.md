@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **drishti.krk@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vqph43FvewyGajutiavtbo285b2JJ0bB/view?usp=sharing](https://drive.google.com/file/d/1vqph43FvewyGajutiavtbo285b2JJ0bB/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1k7Dhr3p1u_v_JcyUtuOMZEzth1sfPkW0/view?usp=sharing]
 
 <p align="left">
 </p>
