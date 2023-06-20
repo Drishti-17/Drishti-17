@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drishti-17&label=Profile%20views&color=0e75b6&style=flat" alt="drishti-17" /> </p>
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/drishti-agarwal-09785b234](https://www.linkedin.com/in/drishti-agarwal-09785b234)
 
